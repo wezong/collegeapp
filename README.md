@@ -1,9 +1,5 @@
 # College Matchmaker
-Short description of project.
-
-
-
-
+Most existing university matching systems rely solely on objective criteria like test scores and grades. However, choosing the right college depends hugely on subjective fit - campus vibe, social scene, extracurricular options. My project creates a matching app asking lifestyle questions to recommend universities aligning with students' personalities, not just their stats. This empowers applicants to find schools where they will thrive academically AND socially by matchingvalues to camoys culture and environment. 
 
 ## Project PI/Project Team 
 Wesley Dong (wesley.s.dong@vanderbilt.edu | dongws | PI)
