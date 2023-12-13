@@ -10,7 +10,8 @@ Wesley Dong (wesley.s.dong@vanderbilt.edu | dongws | PI)
 
 ## Link to Video Explanation: 
 
-## Link to AI Assistant: [College Matchmaker] (https://chat.openai.com/g/g-GDpOmdUQa-college-matchmaker)
+## Link to AI Assistant: 
+[College Matchmaker] (https://chat.openai.com/g/g-GDpOmdUQa-college-matchmaker)
 
 ## Example inputs and prompts
 
