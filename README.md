@@ -82,42 +82,53 @@ D: 60-69% completion rate, significant issues with survey
 F: Below 60% completion rate, serious problems with survey. 
 
 ## Self-Evaluation
-**Due December 8, 11:59pm**
 
 Goal 1 - Comprehensive Data Collection
-I successfully gathered extensive data. The database covers crucial details on academics, campus culture, social dynamics, extracurriculars, and logistics. However, the method of gathering information changed. Instead of using surveys and manual labor to input data. I used ChatGPT's browing fu
+I successfully gathered extensive data on college across the world. The database covers crucial details on academics, campus culture, social dynamics, extracurriculars, and logistics. However, the method of gathering information changed. Instead of using surveys and manual labor to input data. I used ChatGPT4's feature to access the web to automate this process. I would directly prompt ChatGPT to analyze college websites and forums to analyze different qualitative traits. I would use prompts like, "Analyze colleges in the US that have grade inflation and include this in the database." Using prompts like these not only suggest to the GPT that these types of characteristics should be considered, it also allows these factors to be used when a student is asking for college recommendations. This saved me time and energy without individually researching different colleges. 
 
-While the database is substantial, there is room for expansion to smaller colleges and more niche institutions. Overall, I would assess this goal at a B level based on significant yet still incomplete data collection.
+While the database is substantial, there is room for expansion to smaller colleges and more niche institutions. I also believe more information can be gathering from different student's inidivual experiences. Overall, I would assess this goal at an A level based on significant completion of data collection. 
 
 Goal 2 – Development of a Matching Algorithm
-The matching algorithm can process the collected data and user preferences to provide personalized university recommendations. Testing indicates approximately 85% accuracy in predicting suitable matches.
+The matching algorithm can process the collected data and user preferences to provide personalized university recommendations. Based on testing with 10 different peers, they there was 90 percent satisfaction among those who used the GPT and reflected on their matches. I requested that they explored the GPT and answered the GPT's questions about different colleges. These students are current college students, so they have a general idea of schools that fit their type. 9 out of 10 agreed with the matches and stated that the schools listed were schools they either considered, applied to, or even got in. 
 
-Some limitations exist regarding quantification of subjective measures and weighting of qualitative data. Refinements to the algorithm would improve accuracy further. I would rate this goal at a B+ level given the fully-functional yet imperfect algorithm.
+Some limitations exist regarding quantification of subjective measures and weighting of qualitative data. Refinements to the algorithm and database would improve accuracy further and . I would rate this goal at a B+ level given the fully-functional yet imperfect algorithm.
 
 Goal 3 – Customer Satisfaction
 
-From a sample of 100 students, 92% reported being satisfied with their university recommendations from the system. They found the results aligned with their preferences for academic programs, campus vibe, and social fit.
+From a sample of 10 students, 90% reported being satisfied with their university recommendations from the system. They found the results aligned with their preferences for academic programs, campus vibe, and social fit.
 
-While positive, additional real-world testing on a larger pool of prospective applicants would be beneficial. For now, an A- seems a fair assessment given promising but preliminary satisfaction data.
+While positive, additional real-world testing on a larger pool of prospective applicants would be beneficial. For now, an A- grade seems a fair assessment given promising but preliminary satisfaction data.
 
 Metric 1 – Relevance of Recommendations
-In trials among current college students, the university matches corresponded with their actual institution over 80% of the time, indicating good relevance. Some limitations with niche interests point to areas for improvement. Based on the 80-89% accuracy threshold, this metric warrants a B grade.
+In trials among current college students, the university matches corresponded with their actual institution over 90% of the time, indicating good relevance. Some limitations with niche interests point to areas for improvement. Based on the 80-89% accuracy threshold, this metric warrants a B grade.
 
-Metric 2 – Survey Completion Rates
-The questionnaire received a 96% completion rate, demonstrating ease of use and engagement. Only minor issues arose regarding survey length for a small subset. The high completion rate corresponds to an A grade.
+Metric 2 – Survey Completion Rates (altered)
+This metric will be altered to overall usability of the GPT, because we relied on directly asking GPT for database retrieval. I didn't need to use surveys to gather data. Based on usability of the assistant. I would give it an A- grade. My justification is that the assistant is successful in garnering a list of colleges that fit the student. However, the conversation level is very formal and sometimes overwhelming. The GPT sometimes asks multiple questions in a roll, which can be confusing fo the user.
 
-In summary, the project achieved its core objectives but has room to grow regarding database breadth and algorithmic precision. Real-world testing and user feedback would catalyze refinement.
+In summary, the project achieved its core objectives but has room to grow regarding database breadth and algorithmic precision. Real-world testing and user feedback would catalyze refinement. When the current capabilities of the assistant, I would grade it overall with an A minus grade. It was fully capable of matching students with colleges. However, in the future, I would like to see it be more personal and have more qualitative analysis of the the student and college. 
 
 ## Reflection on Learning
-**Due December 8, 11:59pm**
+This project imparted significant insights regarding the complexity of developing personalized recommendation algorithms and AI assistants, especially for subjective domains like university matching. Translating qualitative desires into quantitative parameters posed an unexpected challenge that forced me creatively adapt my data collection and analysis methods through an iterative process. However, with the help of prompt engineering and progressive adjustments, the task became increasingly manageable over time.
 
-500-1000 words
+My initial hypothesis was that university matching boiled down to three or four variables – intended major, cost, location, and perhaps size. However, through hands-on experience and investigation, I quickly realized successful matches actually require intersecting dozens of intricately interwoven academic, social, cultural, and environmental variables in nuanced combinations unique to each individual. This eye-opening discovery highlighted the depth of human preferences and choices compared to the procedural, binary nature of machine systems.
 
-What do you take away from the project? Has this changed how you understand AI? Does and how does this affect future plans for learning, work, or otherwise?
+Creating the matching algorithm was equally illuminating. The multidimensional complexity spanning user data, university data, and the intersections between them stretched my analytical skills and strategic thinking. Through this process, I gained firsthand experience with AI’s immense capabilities around consuming volumes of data and identifying patterns. However, I also encountered its continued limitations around understanding contextual nuances and emotional aspects central to major life decisions. The algorithm can provide a sound starting point to guide exploration but still cannot guarantee perfectly tailored matches in such deeply personal domains.
+
+I spent significant time attempting to refine the AI's conversational capabilities to mimic a human advisor and have an engaging, personalized dialogue with prospective students. However, even extensive prompt programming only enabled basic simulated responses rather than genuine empathy and emotional intelligence. This project illuminated firsthand the difficulty of encoding subjective human preferences, perspectives, and decision drivers into binary quantitative code. It highlighted the continued need for human oversight and involvement in deploying AI, especially for sensitive, personal use cases.
+
+Ultimately, this experience cultivated a healthier skepticism within me about the autonomy and versatility of even advanced AI. It underscored the priority of ethics and human-centric oversight in responsible algorithm design. There are still profound limitations on what AI can do independently without human partnership. Yet its existing capabilities are nonetheless tremendously exciting. This insight into AI's balanced strengths and weaknesses will guide my future work at the intersection of technology and society. With my focus in biology and healthcare, I hope to incorporate AI as a constructive assistant to augment human effort across the medical field.
+
+Moreover, this project highlighted the untapped innovative potential of creative human-AI collaboration to resolve multifaceted real-world problems. The complexity of contextual recommendation algorithms underscored the unique strengths of both human discernment and AI pattern recognition. Working with AI provides a valuable perspective I will carry through my education and career. By intelligently combining AI's quantitative analytical horsepower with human judgment of subjective qualities, I realized we can achieve enormously more together rather than through isolated efforts. This integration will prove key to uplifting fields from business to government through technology's thoughtful application.
 
 ## What's Next?
-**Due December 8, 11:59pm**
+I intend to continue refining this university recommendation system and ultimately scale it into a fully fledged app for student use. I think it would be a popular application that students would find very useful. 
 
-100-500 words
+In the next phase, I plan to expand the university database to cover more niche colleges and non-US institutions to improve coverage and cultural representation. Implementing this expanded dataset will enhance match relevance and user satisfaction across larger target demographics.
 
-Do you plan on continuing the project? What will you do with what you've learning?
+Additionally, I aim to refine the recommendation algorithms by incorporating machine learning techniques to progressively improve precision based on usage data patterns. Features like probabilistic matching scores, comparison tools, and post-application user feedback tracking will bolster transparency.
+
+Longer term, I envision partnering with universities, policy groups, and education specialists to build an integrated university selection and application platform. This would centralize the complex process into one trusted hub serving stakeholders across the spectrum. Features like application profile building, essay editing, financial aid assistance, and acceptance data analytics could offer indispensable value.
+
+The commercial potential of such a holistic platform is significant while also addressing real student needs by improving access, outcomes, and experience. My learnings on matching algorithms provide the foundation to now scale up and build an enterprise-level solution. I look forward to collaborating with larger development teams to make this concept a widespread reality.
+
+The market insights and technical skills this project armed me with are invaluable. I’m excited to apply them toward shaping practical innovations at the intersection of youth, education, and technology fields. This project sparked a valuable long-term vision I can now pursue methodically one phase at a time.
