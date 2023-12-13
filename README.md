@@ -5,6 +5,7 @@ Most existing university matching systems rely solely on objective criteria like
 Wesley Dong (wesley.s.dong@vanderbilt.edu | dongws | PI)
 
 ## Link to Video Explanation: 
+[Video link] (https://vanderbilt.box.com/s/d0cp10umeaz71tqgk4wayrsqgow9uj80)
 
 
 ## Link to AI Assistant: 
