@@ -20,6 +20,9 @@ Project Notes:
 Name, Vandy email, VUNetID, Role
 Wesley Dong (wesley.s.dong@vanderbilt.edu || dongws) - This is a indiividual project so I will be doing everything including the product design, coding, and testing. 
 
+## Link to Video Explanation: [College Matchmaker] (https://chat.openai.com/g/g-GDpOmdUQa-college-matchmaker)
+
+
 ## Project Proposal 
 **Due October 26, 11:59pm**
 
