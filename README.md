@@ -3,22 +3,10 @@ Short description of project.
 
 
 
-Project Notes:
 
-- Please remember to keep your repo private when you create it from this template.
-- Be sure to create your report in the **intro-gen-ai** organization. 
-- The name of the repo should be the name of the project, or a shortened version of the name.
-- Each section should be completed by the deadline indicated. You submit by making a commit of this README.md file. Except for minor edits, please do no change the Proposal, Goals, or Metrics sections after the submission deadline.
-- General guidance on formatting writing in markdown files (like this README.md file) is at https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax.
-- There is a [recording of the the class discussion on the use of this template](https://vanderbilt.zoom.us/rec/share/RjihScz0Ti7RId0KMj7GWBc8XueS571_JnFqDQwli0AuKLsgaau0j_RcphBjwYtV.HP10ROf2TwPUn6TA?startTime=1697553005000).
-- You can sign up for a time to discuss your ideas for the project at https://calendly.com/jesse-spencer-smith. We'll also be discussing project in class on Tuesday after Fall Break.
-- Remember that there is an AI Showcase on December 1 (with prizes for Best in Show), so you might want to consider completing your project by then. 
 
 ## Project PI/Project Team 
-**Due October 26, 11:59pm**
-
-Name, Vandy email, VUNetID, Role
-Wesley Dong (wesley.s.dong@vanderbilt.edu || dongws) - This is a indiividual project so I will be doing everything including the product design, coding, and testing. 
+Wesley Dong (wesley.s.dong@vanderbilt.edu | dongws | PI)
 
 ## Link to Video Explanation: 
 
@@ -27,9 +15,6 @@ Wesley Dong (wesley.s.dong@vanderbilt.edu || dongws) - This is a indiividual pro
 ## Example inputs and prompts
 
 ## Project Proposal 
-**Due October 26, 11:59pm**
-
-300-1000 words total across all of the sections below
 
 ### Description of Problem/Opportunity
 The process of selecting a university is an important decision in a student's life, with long-lasting implications on their personal and professional development. Current matching systems online primarily focus on objective criteria like GPA, test scores, and intended major. However, these systems often overlook subjective yet crucial aspects of a university experience, such as campus culture, social environment, and personal growth opportunities. As a result, students might end up in institutions that do not align with their personality, preferences, and values, potentially leading to dissatisfaction and underperformance. Even here at Vanderbilt, students have discussed about regretting their decision commiting to Vanderbilt or are generally unsatisfied with their experience at Vanderbilt. 
@@ -49,7 +34,6 @@ Data collection will include the following:
 The project will use ChatGPT for natural language processing, helping to interpret and generate text-based responses from/to the user. A matching algorithm will then analyze both sets of data to find the best-fit universities for each student. The recommendations will be accompanied by personalized explanations, explaining why each university might suit the student’s preferences. Additionally, a feedback mechanism will be integrated to continuously refine and improve the matching algorithm based on user experiences.
 
 ### Project Outline and Timeline
-What are the steps to complete the project? State your milestones and the dates you want to complete them. 
 1. Project Prosposal (October 26)
 Define project goals, design overview, and metrics.
 
@@ -66,9 +50,7 @@ Incorporate ChatGPT for processing data. Ensure seamless integration with the ma
 Document the project, evaluate success against objectives, prepare for presenation.
 
 ## Goals of project 
-**Due October 26, 11:59pm**
 
-Describe 1-5 goals of the project. 
 ### Goal 1
 Comprehensive Data Collection - Gather detailed data on universities, ensuring coverage of academic, cultural, social, and logistical aspects to facilitate a well-rounded matching process.
 ### Goal 2
@@ -77,9 +59,7 @@ Development of a Matching Algorithm - Create an algorithm capable of analyzing b
 Customer satisfaction - Have a working algorithm that provides satisfaction to the user.
 
 ## Project Metrics 
-**Due October 26, 11:59pm**
 
-Compose 2-5 metrics to determine the success of the project. These should be measureable, and should translate to a letter grade for each. 
 ### Metric 1
 Evaluate how accurate and relevant the university recommendations are from the users' perspective. This will be measured by using students that are currently in colleges. They will take the survey and determine if the results match with their current unviersitie. 
 
