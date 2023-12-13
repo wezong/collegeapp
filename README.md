@@ -10,6 +10,17 @@ Wesley Dong (wesley.s.dong@vanderbilt.edu | dongws | PI)
 [College Matchmaker] (https://chat.openai.com/g/g-GDpOmdUQa-college-matchmaker)
 
 ## Example inputs and prompts
+[Sample conversation with prompt examples] - (https://chat.openai.com/share/9d8e27b0-81a1-4c93-ac1f-c404a323c607)
+Example prompt inputs: 
+
+1. My GPA is 3.8 and my ACT score is a 33. I want the final list of schools to match with qualifications.
+2. Based on my test scores, ask my questions to help me find the best fit school.
+3. I enjoy biology. However, I also like computer science. I would like to go to a school that can fit both of my interests
+4. I would like to go to a learning environmetn where class rigor is not very difficult. I want to learn but I don't want a learning environmetn that is very competitive and stressful.
+5. I really enjoy playing soccer. I would like to go to a school that has club programs for soccer. 
+
+Questions should be based around your preferences of learning environment and what you want to experience in colelge.
+
 
 ## Project Proposal 
 
