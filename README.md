@@ -6,8 +6,11 @@ Wesley Dong (wesley.s.dong@vanderbilt.edu | dongws | PI)
 
 ## Link to Video Explanation: 
 
+
 ## Link to AI Assistant: 
 [College Matchmaker] (https://chat.openai.com/g/g-GDpOmdUQa-college-matchmaker)
+
+Access the AI assistant through the link provided above. Begin asking questions and answering the GPT to learn what school is the best match for you.
 
 ## Example inputs and prompts
 [Sample conversation with prompt examples] - (https://chat.openai.com/share/9d8e27b0-81a1-4c93-ac1f-c404a323c607)
@@ -19,7 +22,7 @@ Example prompt inputs:
 4. I would like to go to a learning environmetn where class rigor is not very difficult. I want to learn but I don't want a learning environmetn that is very competitive and stressful.
 5. I really enjoy playing soccer. I would like to go to a school that has club programs for soccer. 
 
-Questions should be based around your preferences of learning environment and what you want to experience in colelge.
+Questions should be based around your preferences of learning environment and what you want to experience in college.
 
 
 ## Project Proposal 
